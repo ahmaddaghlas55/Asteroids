@@ -47,6 +47,9 @@ State transitions
 Basic visual effects
 
 Everything is built from scratch using raw C++ and the olcPixelGameEngine — no engines or frameworks beyond that.
+it's a replica of this video on youtube 
+https://youtu.be/QgDR8LrRZhk?si=85qoko-5pMxpjGb_
+
 here some snapshots of the game : 
 
 
