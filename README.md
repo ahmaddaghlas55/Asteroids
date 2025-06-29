@@ -48,7 +48,15 @@ Basic visual effects
 
 Everything is built from scratch using raw C++ and the olcPixelGameEngine — no engines or frameworks beyond that.
 here some snapshots of the game : 
+
+
+
 ![image](https://github.com/user-attachments/assets/2b6ffff8-b472-4a42-9944-a88ae4f0b5e3)
+![image](https://github.com/user-attachments/assets/6c202743-74e1-4cf3-8d76-140396902400)
+![image](https://github.com/user-attachments/assets/15e11034-9e79-4dde-b483-95c5ec68a608)
+![image](https://github.com/user-attachments/assets/139924f0-58f7-4bd9-8cea-b3c7969c9687)
+
+
 
 
 
